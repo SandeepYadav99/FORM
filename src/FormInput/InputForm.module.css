@@ -1,0 +1,10 @@
+.container{
+width: 70%;
+}
+.input-filed{
+display: block;
+}
+.actions{
+  padding: 5px 10px;
+  cursor: pointer;
+}
